@@ -17,4 +17,7 @@ var bear = {
     maxOffspring: 3,
     noisy: true,
     deadly: true,
+
+
+
 };
